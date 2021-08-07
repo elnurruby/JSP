@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MySQLMaven:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MySQLMaven_jar</output-path>
+    <root id="archive" name="MySQLMaven.jar">
+      <element id="module-output" name="MySQLMaven" />
+    </root>
+  </artifact>
+</component>
